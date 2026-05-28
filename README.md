@@ -1,10 +1,10 @@
 # 📷 Industrial Vision & Data Analysis Platform (工业视觉采集与分析平台)
 
-本项目是一个基于 Qt (C++) 构建的工业相机实时图像采集、视觉处理与数据分析的综合桌面软件平台。系统底层集成了海康威视（Hikvision）机器视觉 SDK 以支持硬件交互，利用 OpenCV 进行核心图像处理，并通过 OpenGL 和 QCustomPlot 实现高性能的图像渲染与数据曲线可视化，最终支持将处理结果一键导出至 Excel。
+本项目是一个基于 Qt (C++) 构建的工业相机实时图像采集、视觉处理与数据分析的综合桌面软件平台，是作者学生时代学习搞出来的Demo，换电脑遂上传git留作纪念。系统底层集成了海康威视（Hikvision）机器视觉 SDK 以支持硬件交互，利用 OpenCV 进行核心图像处理，并通过 OpenGL 和 QCustomPlot 实现高性能的图像渲染与数据曲线可视化，最终支持将处理结果一键导出至 Excel。
 
-作者：Gtree
-日期2022.10
-邮箱：gtree.cn@outlook.com
+- 作者：Gtree
+- 日期2022.10
+- 邮箱：gtree.cn@outlook.com
 
 ## ✨ 核心特性 (Key Features)
 
